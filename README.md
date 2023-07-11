@@ -17,6 +17,7 @@ Remember that you have to use `state` to be able to trigger rerendering of the t
 ## Replenishment
 
 > If you only want to know about how to detecting system theme, [click me][def2]
+>
 > [Here is my blog about this project][def3]
 
 [def]: https://tailwindcss.com/docs/dark-mode
