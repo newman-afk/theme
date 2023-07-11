@@ -1,0 +1,11 @@
+html.light {
+  background-color: white;
+}
+
+html.dark {
+  background-color: #333;
+}
+
+.active {
+  background-color: red;
+}
