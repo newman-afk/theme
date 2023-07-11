@@ -26,9 +26,7 @@ export function ThemeProvider({ children }) {
     }
   }, [usingDeviceThemes, deviceTheme])
   return (
-    <ThemeContext.Provider
-      value={{ theme, setTheme, usingDeviceThemes, setUsingDeviceThemes }}
-    >
+    <ThemeContext.Provider value={{ theme, setTheme, setUsingDeviceThemes }}>
       {children}
     </ThemeContext.Provider>
   )
